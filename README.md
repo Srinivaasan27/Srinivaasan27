@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/Srinivaasan27/Srinivaasan27.github.io/main/Profile%20Photo.PNG" height="300" width="1000">
 
 # Srinivaasan27 
-## About Me
-###  I am a 12 year old Indian boy who is eager to code.
+<p> ## About Me
+###  I am a 12 year old Indian boy who is eager to code. </p>
 ## Programming Languages I know
 ### I know HTML and CSS. I aslo know Scratch which is a block- based programming language.
 ## Do I have a Website?
