@@ -12,3 +12,6 @@
 <hr />
 <p><h2>What I am working on?</h2>
 <h3>I currently learning more information of CSS and adding more features to my website.</h3></p>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
