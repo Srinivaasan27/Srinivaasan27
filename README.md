@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/Srinivaasan27/Srinivaasan27.github.io/main/Profile%20Photo.PNG" height="300" width="1000">
 <h1 text align="center">Srinivaasan27</h1>
 <hr />
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 <p><h2>About Me</h2>
 <h3>I am a 12 year old Indian boy who is eager to code.</h3></p>
 <hr />
