@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Srinivaasan27/Srinivaasan27.github.io/main/Profile%20Photo.PNG" height="300" width="1000">
 <h1 text align="center">Srinivaasan27</h1>
 <hr />
 <img src="https://komarev.com/ghpvc/?username=Srinivaasan27&style=flat-square">
